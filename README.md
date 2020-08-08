@@ -92,7 +92,7 @@ $ sls deploy
 Running the project
 ---------------------
 
-1. Clone the `voxa <https://github.com/mediarain/voxa>`_ repository
+1. Clone the `voxa <https://github.com/VoxaAI/voxa>`_ repository
 
 2. Create a new skill project using the ``samples/starterKit`` directory as a basis
 
