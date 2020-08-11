@@ -105,3 +105,12 @@ Running the project
 6. Run the project with ``gulp watch``
 
 7. At this point you should start ``ngrok http 3000`` and configure your skill in the Amazon Developer panel to use the ngrok https endpoint.
+
+
+###Important Note 
+
+One Thing To Notice
+===================
+
+
+The main purpose to make this repositry is to use **voxa-cli** not to make the voxa project , kinldy do this by using the cli .
