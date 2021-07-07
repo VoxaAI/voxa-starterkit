@@ -1,3 +1,10 @@
+# This repo has been deprecated!
+### Please use [voxa-cli](https://github.com/VoxaAI/voxa-cli) instead to generate a Voxa project.
+### Thank you very much!
+
+<!-- 
+
+
 .. _starter-kit:
 
 Starter Kit
@@ -104,4 +111,4 @@ Running the project
 
 6. Run the project with ``gulp watch``
 
-7. At this point you should start ``ngrok http 3000`` and configure your skill in the Amazon Developer panel to use the ngrok https endpoint.
+7. At this point you should start ``ngrok http 3000`` and configure your skill in the Amazon Developer panel to use the ngrok https endpoint. -->
